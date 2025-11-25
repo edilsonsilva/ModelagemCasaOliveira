@@ -77,6 +77,12 @@ sua empresa. Vamos ajudá-lo. Começaremos construindo o banco de dados
 
 <img src="normalizacao4-2.png">
 
+#### Diagrama de tabelas
+<img src="diagrama_tabelas.png">
+
+#### MER - Modelo de Entidade Relacional
+<img src="mer.png">
+
 
 
 ### Modelo Físico
